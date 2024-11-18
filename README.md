@@ -46,12 +46,11 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![WhatsApp Image 2024-10-05 at 06 44 10_44041c73](https://github.com/user-attachments/assets/c2062a44-39ed-4e18-9250-0a51037476eb)
+![Screenshot (72)](https://github.com/user-attachments/assets/b9805cd8-aef7-4464-bd81-e9c136cad7a0)
 
 
 
- 
-iii)	Creating the Symbol for schematic Cell view
+ iii)	Creating the Symbol for schematic Cell view
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
 	The cell view from cell view window appears
@@ -64,8 +63,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![WhatsApp Image 2024-10-05 at 06 44 09_c7305ee4](https://github.com/user-attachments/assets/7dafa89b-c94c-47a2-8158-317df26690a5)
-
+ ![Screenshot (75)](https://github.com/user-attachments/assets/a4c57722-e814-4250-a0e7-6b9060fd6051)
 
 
 iv)	Creating the new test cell view
@@ -76,8 +74,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![WhatsApp Image 2024-10-05 at 06 44 09_99443789](https://github.com/user-attachments/assets/6e7318f8-7f0f-4656-b8e9-bafa00d2ace2)
-
+ ![Screenshot (79)](https://github.com/user-attachments/assets/ab8e8d6c-5a76-4191-92a0-f247eb93a093)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -89,15 +86,12 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![WhatsApp Image 2024-10-05 at 06 44 08_3488cbfa](https://github.com/user-attachments/assets/9b21ba7d-7300-4e61-8f63-c6e87720bc99)
-
+ ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
 
 For Transient Analysis Settings and Output
- ![WhatsApp Image 2024-10-05 at 06 44 09_15d5f597](https://github.com/user-attachments/assets/a16c37ba-546a-4f8c-a295-09207b4ad159)
+ ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
-
- ![WhatsApp Image 2024-10-05 at 06 44 10_c30502e6](https://github.com/user-attachments/assets/058ef747-5277-40cb-b72d-b29069984cd8)
-
+ ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
 
 
 
